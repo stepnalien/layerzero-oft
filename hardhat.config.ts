@@ -67,6 +67,11 @@ const config: HardhatUserConfig = {
       default: 1,
     },
   },
+
+  etherscan: {
+         apiKey: process.env.BSCSCAN_API_KEY, // Your Etherscan API key
+   },
+
   networks: {
     hardhat: {
       accounts: accounts(),
@@ -143,4 +148,5 @@ const config: HardhatUserConfig = {
     }
   }
 };
+
 export default config

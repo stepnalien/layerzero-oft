@@ -1,10 +1,6 @@
 {
-  "proxyContractConfig": {
-    "chain": "fuji",
-    "name": "ExampleProxyOFTWithFee"
-  },
   "contractConfig": {
-    "name": "ExampleOFTWithFee"
+    "name": "Alien"
   },
   "chainConfig": {
     "fuji": {

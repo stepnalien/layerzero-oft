@@ -7,5 +7,12 @@
 		"tokenName": "ExampleOFTWithFee",
 		"tokenSymbol": "OFTV2",
 		"sharedDecimals": "8"
+	},
+
+	"Alien": {
+		"contractName": "Alien",
+		"tokenName": "Alien",
+		"tokenSymbol": "A",
+		"sharedDecimals": "8"
 	}
 }
